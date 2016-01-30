@@ -1,5 +1,7 @@
 # Cyril Leroux
 
+----------
+
 ## Présentation
 
 Je suis Cyril Leroux. Je suis designer et consultant  
