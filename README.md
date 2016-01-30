@@ -1,7 +1,5 @@
 # Cyril Leroux
 
-----------
-
 ## Présentation
 
 Je suis Cyril Leroux. Je suis designer et consultant  
@@ -16,7 +14,7 @@ Visual Designer/Consultant : 2 ans
 Université : 2 ans en psychologie  
 Bac+5/Master : Designer (UI/UX/Visual)
 
-#### Les raisons pour lesquels vous vous êtes inscrit sur Simplonline et qu'est-ce que vous attendez de la formation
+## Les raisons pour lesquels vous vous êtes inscrit sur Simplonline et qu'est-ce que vous attendez de la formation
 
 Totalement novice dans le domaine du développement,  
 je cherche à développer des interfaces autre que statiques  
